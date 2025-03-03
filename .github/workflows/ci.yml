@@ -24,7 +24,7 @@ jobs:
         run: dotnet restore io2.sln
 
       - name: Build 🧱
-        run: dotnet build WebApi --configuration Release --no-restore
+        run: dotnet build io2.sln --configuration Release --no-restore
 
       - name: Test 🧪
-        run: dotnet test WebApi --configuration Release --no-build
+        run: dotnet test io2.sln --configuration Release --no-build

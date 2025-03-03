@@ -1,0 +1,15 @@
+/Users/me/my/projects/io2/bin/Release/net8.0/io2
+/Users/me/my/projects/io2/bin/Release/net8.0/io2.deps.json
+/Users/me/my/projects/io2/bin/Release/net8.0/io2.runtimeconfig.json
+/Users/me/my/projects/io2/bin/Release/net8.0/io2.dll
+/Users/me/my/projects/io2/bin/Release/net8.0/io2.pdb
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.AssemblyInfoInputs.cache
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.AssemblyInfo.cs
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.csproj.CoreCompileInputs.cache
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.sourcelink.json
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.dll
+/Users/me/my/projects/io2/obj/Release/net8.0/refint/io2.dll
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.pdb
+/Users/me/my/projects/io2/obj/Release/net8.0/io2.genruntimeconfig.cache
+/Users/me/my/projects/io2/obj/Release/net8.0/ref/io2.dll
