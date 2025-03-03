@@ -18,7 +18,7 @@ jobs:
       - name: Setup .NET 📦
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: ${{ env.DOTNET_VERSION }}
+          dotnet-version: 8.0
 
       - name: Install dependencies 📂
         run: dotnet restore io2.sln
